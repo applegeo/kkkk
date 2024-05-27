@@ -7,6 +7,7 @@ int main()
 {
     cout << "my7iasdaasdasdsdasasd";
     cout << "my7iasdaasdasdsdasasd";
+    out << "my7iasdaasdasdsdasasd";
     std::cout << "Hello World!\n";
 }
 
